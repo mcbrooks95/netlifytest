@@ -42,7 +42,7 @@ function Home() {
   return (
     <Layout
       permalink={'/'}
-      description={'Set up a modern web app by running one command.'}
+      description={'Setsdfds up a modern web app by running one command.'}
     >
       <div className={classnames('hero hero--dark', styles.heroBanner)}>
         <div className="container">
